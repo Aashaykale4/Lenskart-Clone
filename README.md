@@ -15,3 +15,6 @@ To install and set up the project locally, follow these steps:
     ```
 ## Usage
 Once the project is running, open a web browser and navigate to the specified URL. You will be presented with the replicated LenseKart dashboard interface, where you can explore various features and more. Please note that any social links within the dashboard will redirect you to the corresponding pages on the official LenseKart website.
+
+## Getting Started Section 
+To Get started with this project refer to the * Installation section :).
